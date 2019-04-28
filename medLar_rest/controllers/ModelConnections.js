@@ -21,5 +21,6 @@ exports.utente = Utente;
 exports.auxiliar = Auxiliar;
 exports.horario = Horario;
 exports.tarefa = Tarefa;
+exports.caixa = Caixa;
 exports.db = db;
 
